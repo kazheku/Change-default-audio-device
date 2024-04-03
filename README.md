@@ -8,5 +8,5 @@ The one I used included multiple audio related commands (such as set default dev
 
 **INSTALL cmdlet**
 
-I used this one: <a href="https://github.com/frgnca/AudioDeviceCmdlets" />
+I used this one: https://github.com/frgnca/AudioDeviceCmdlets
 
